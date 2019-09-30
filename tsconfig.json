@@ -1,3 +1,7 @@
 {
-  
+  "compilerOptions":{
+		"types": [
+			"node","@xmly/award-plugin-dva"
+		]
+	}
 }

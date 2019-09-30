@@ -10,7 +10,15 @@
 ```json
 {
   "compilerOptions": {
-    "types": ["node", "libb"]
+    "types": ["node", "@xmly/award-plugin-dva"]
   }
 }
+```
+
+## 运行
+
+```sh
+npm run start
+
+node index.js
 ```

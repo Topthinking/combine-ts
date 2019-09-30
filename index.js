@@ -1,1 +1,4 @@
-const liba = require('@xmly/liba').default;
+const Award = require('@xmly/award').default;
+
+Award.setAbc();
+Award.setAward();
